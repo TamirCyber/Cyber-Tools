@@ -7,4 +7,9 @@ This repository contains a collection of offensive cybersecurity tools for ethic
 python MAC changer.py --interface <eth0?> --mac <new_mac_address>
 ```
 
+**Install via Git**
+
+```bash
+git clone https://github.com/dievus/threader3000.git #to save the program to your machine, or utilize the download option
+```
 
