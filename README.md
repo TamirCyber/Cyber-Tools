@@ -4,7 +4,7 @@ This repository contains a collection of offensive cybersecurity tools for ethic
 ## mac changer 
 
 ```bash
-python MAC changer.py --interface <eth0?> --mac <new_mac_address>
+python MAC changer.py -i <interface> -m <new_mac_address>
 ```
 
 ## Network Scanner 
